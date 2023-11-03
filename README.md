@@ -15,7 +15,7 @@
 # CSS Refractor Module 1
 
 * I combine the benefit lead, brand and cost into one line because all three styles were using the same display, margin and width. Same for Img and titlessearch-engine-optimization, .online-reputation-management, .social-media-marketing becusae they displayed the same style. The final stye I added was footer becuase it added in HTML.
-![Links Code Refractor.](./Module1/images/Css_refractor.png)
+![Links Code Refractor.](./Module1/images/css_refractor.png)
 
 # Link to Deployment 
 
